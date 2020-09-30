@@ -1,0 +1,13 @@
+D:\ProgramingProjects\CesarVignere\CesarVignere\bin\Debug\netcoreapp3.1\CesarVignere.exe
+D:\ProgramingProjects\CesarVignere\CesarVignere\bin\Debug\netcoreapp3.1\CesarVignere.deps.json
+D:\ProgramingProjects\CesarVignere\CesarVignere\bin\Debug\netcoreapp3.1\CesarVignere.runtimeconfig.json
+D:\ProgramingProjects\CesarVignere\CesarVignere\bin\Debug\netcoreapp3.1\CesarVignere.runtimeconfig.dev.json
+D:\ProgramingProjects\CesarVignere\CesarVignere\bin\Debug\netcoreapp3.1\CesarVignere.dll
+D:\ProgramingProjects\CesarVignere\CesarVignere\bin\Debug\netcoreapp3.1\CesarVignere.pdb
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.csprojAssemblyReference.cache
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.AssemblyInfoInputs.cache
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.AssemblyInfo.cs
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.csproj.CoreCompileInputs.cache
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.dll
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.pdb
+D:\ProgramingProjects\CesarVignere\CesarVignere\obj\Debug\netcoreapp3.1\CesarVignere.genruntimeconfig.cache
