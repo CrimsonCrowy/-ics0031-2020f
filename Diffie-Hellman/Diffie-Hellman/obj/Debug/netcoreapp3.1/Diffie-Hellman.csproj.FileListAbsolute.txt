@@ -1,0 +1,13 @@
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.exe
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.deps.json
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.runtimeconfig.json
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.runtimeconfig.dev.json
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.dll
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.pdb
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.csprojAssemblyReference.cache
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.AssemblyInfoInputs.cache
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.AssemblyInfo.cs
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.csproj.CoreCompileInputs.cache
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.dll
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.pdb
+D:\ProgramingProjects\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.genruntimeconfig.cache
