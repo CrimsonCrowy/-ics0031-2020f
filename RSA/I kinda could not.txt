@@ -1,6 +1,0 @@
-I tried to solve the issue of the lenght of large numbers stored in ulong.
-As even with lowest primes and derived e being 3, it still is impossible I think to store some things.
-11^29 = 1,586,309,297,171,491,574,414,436,704,891
-I... dont know how to deal with this.
-
-I also attached the paper that I based my program on, but if I try the numbers I had used for manual calculation... the program just dies.
